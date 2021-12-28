@@ -1,0 +1,32 @@
+<svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="4.5" y="7.5" width="21" height="16.5" rx="1" fill="#DCDCDC"/>
+<path d="M4.5 8.5C4.5 7.94772 4.94772 7.5 5.5 7.5H24.5C25.0523 7.5 25.5 7.94772 25.5 8.5V12H4.5V8.5Z" fill="#EE0033"/>
+<path d="M15 7.5H24.5C25.0523 7.5 25.5 7.94772 25.5 8.5V12H15V7.5Z" fill="#92001F"/>
+<rect x="7.5" y="4.5" width="3" height="6" rx="1" fill="#DCDCDC"/>
+<rect x="13.5" y="4.5" width="3" height="6" rx="1" fill="#DCDCDC"/>
+<rect x="19.5" y="4.5" width="3" height="6" rx="1" fill="#DCDCDC"/>
+<path d="M15.1139 16.5322H13.4541C12.647 16.5322 11.9922 15.8774 11.9922 15.0703C11.9922 14.2632 12.647 13.6084 13.4541 13.6084C14.3678 13.6084 15.1139 14.3546 15.1139 15.2683V16.5322Z" fill="#EE0033"/>
+<path d="M14.8704 16.5322H16.5303C17.3374 16.5322 17.9922 15.8774 17.9922 15.0703C17.9922 14.2632 17.3374 13.6084 16.5303 13.6084C15.6166 13.6084 14.8704 14.3546 14.8704 15.2683V16.5322Z" fill="#EE0033"/>
+<path d="M18.5453 21.0703H11.4361C11.3244 21.0703 11.25 20.9979 11.25 20.9255V17.3203H18.75V20.9255C18.75 20.9979 18.6569 21.0703 18.5453 21.0703Z" fill="#92001F"/>
+<path d="M19.0605 17.4551H10.9395C10.8516 17.4551 10.7812 17.3848 10.7812 17.2969V15.9785C10.7812 15.8906 10.8516 15.8203 10.9395 15.8203H19.0605C19.1484 15.8203 19.2188 15.8906 19.2188 15.9785V17.2969C19.2188 17.3848 19.1484 17.4551 19.0605 17.4551Z" fill="#EE0033"/>
+<path d="M15.5449 17.4551H14.4375V21.0703H15.5449V17.4551Z" fill="#EE0033"/>
+<path d="M15.5449 15.6797H14.4375V17.4551H15.5449V15.6797Z" fill="#EE0033"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="7" y="4" width="4" height="7">
+<rect x="7.5" y="4.5" width="3" height="6" rx="1" fill="#DCDCDC"/>
+</mask>
+<g mask="url(#mask0)">
+<rect x="9" y="3" width="3" height="9" fill="#C4C4C4"/>
+</g>
+<mask id="mask1" mask-type="alpha" maskUnits="userSpaceOnUse" x="13" y="4" width="4" height="7">
+<rect x="13.5" y="4.5" width="3" height="6" rx="1" fill="#DCDCDC"/>
+</mask>
+<g mask="url(#mask1)">
+<rect x="15" y="3" width="3" height="9" fill="#C4C4C4"/>
+</g>
+<mask id="mask2" mask-type="alpha" maskUnits="userSpaceOnUse" x="19" y="4" width="4" height="7">
+<rect x="19.5" y="4.5" width="3" height="6" rx="1" fill="#DCDCDC"/>
+</mask>
+<g mask="url(#mask2)">
+<rect x="21" y="3" width="3" height="9" fill="#C4C4C4"/>
+</g>
+</svg>

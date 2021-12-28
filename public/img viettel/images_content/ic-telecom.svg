@@ -1,0 +1,37 @@
+<svg width="81" height="80" viewBox="0 0 81 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M57.2705 31.6061C57.2705 35.9657 55.7314 40.5093 52.162 44.961C50.2419 47.3556 46.633 51.0259 43.9404 53.3111C41.6912 55.2199 39.7514 55.4294 37.7207 53.6762C37.4539 53.4459 37.1418 53.2641 36.8399 53.0821C34.9503 51.9427 30.0785 47.1304 28.3389 44.961C24.7696 40.5093 23.2305 35.9657 23.2305 31.6061C23.2305 23.0011 30.8506 16.0254 40.2505 16.0254C49.6504 16.0254 57.2705 23.0011 57.2705 31.6061Z" fill="#EE0033"/>
+<path d="M48.7603 31.5816C48.7603 35.8772 44.9502 39.3595 40.2502 39.3595C35.5503 39.3595 31.7402 35.8772 31.7402 31.5816C31.7402 27.286 35.5503 23.8037 40.2502 23.8037C44.9502 23.8037 48.7603 27.286 48.7603 31.5816Z" fill="white"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="23" y="16" width="35" height="39">
+<path d="M57.2705 31.6061C57.2705 35.9657 55.7314 40.5093 52.162 44.961C50.2419 47.3556 46.633 51.0259 43.9404 53.3111C41.6912 55.2199 39.7514 55.4294 37.7207 53.6762C37.4539 53.4459 37.1418 53.2641 36.8399 53.0821C34.9503 51.9427 30.0785 47.1304 28.3389 44.961C24.7696 40.5093 23.2305 35.9657 23.2305 31.6061C23.2305 23.0011 30.8506 16.0254 40.2505 16.0254C49.6504 16.0254 57.2705 23.0011 57.2705 31.6061Z" fill="#EE0033"/>
+</mask>
+<g mask="url(#mask0)">
+<rect x="40.25" y="-0.790039" width="33.5784" height="62.3325" fill="#92001F"/>
+</g>
+<mask id="mask1" mask-type="alpha" maskUnits="userSpaceOnUse" x="31" y="23" width="18" height="17">
+<path d="M48.7583 31.5816C48.7583 35.8772 44.9482 39.3595 40.2483 39.3595C35.5483 39.3595 31.7383 35.8772 31.7383 31.5816C31.7383 27.286 35.5483 23.8037 40.2483 23.8037C44.9482 23.8037 48.7583 27.286 48.7583 31.5816Z" fill="white"/>
+</mask>
+<g mask="url(#mask1)">
+<rect x="40.248" y="21.3076" width="12.0068" height="19.492" fill="#C4C4C4"/>
+</g>
+<ellipse rx="2.87935" ry="2.75536" transform="matrix(1 0 0 -1 40.2485 61.3804)" fill="#DCDCDC"/>
+<ellipse rx="2.87935" ry="2.75536" transform="matrix(1 0 0 -1 51.8247 61.3804)" fill="#DCDCDC"/>
+<ellipse rx="2.87935" ry="2.75536" transform="matrix(1 0 0 -1 28.6762 61.3804)" fill="#DCDCDC"/>
+<mask id="mask2" mask-type="alpha" maskUnits="userSpaceOnUse" x="37" y="58" width="7" height="7">
+<ellipse rx="2.87935" ry="2.75536" transform="matrix(1 0 0 -1 40.2485 61.3804)" fill="#92001F"/>
+</mask>
+<g mask="url(#mask2)">
+<rect width="5.7587" height="5.51072" transform="matrix(1 0 0 -1 40.248 64.1357)" fill="#C4C4C4"/>
+</g>
+<mask id="mask3" mask-type="alpha" maskUnits="userSpaceOnUse" x="48" y="58" width="7" height="7">
+<ellipse rx="2.87935" ry="2.75536" transform="matrix(1 0 0 -1 51.8247 61.3804)" fill="#92001F"/>
+</mask>
+<g mask="url(#mask3)">
+<rect width="5.7587" height="5.51072" transform="matrix(1 0 0 -1 51.8242 64.1357)" fill="#C4C4C4"/>
+</g>
+<mask id="mask4" mask-type="alpha" maskUnits="userSpaceOnUse" x="25" y="58" width="7" height="7">
+<ellipse rx="2.87935" ry="2.75536" transform="matrix(1 0 0 -1 28.6762 61.3804)" fill="#DCDCDC"/>
+</mask>
+<g mask="url(#mask4)">
+<rect width="5.7587" height="5.51072" transform="matrix(1 0 0 -1 28.6758 64.1357)" fill="#C4C4C4"/>
+</g>
+</svg>

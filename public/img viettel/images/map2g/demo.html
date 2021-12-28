@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Overlaying an image map type</title>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <style>
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      #map {
+        height: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+    <script>
+
+      function initMap() {
+        var map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 16,
+          center: {lat: 21.0278, lng: 105.8342}
+        });
+        
+        var imageMapType = new google.maps.ImageMapType({
+          getTileUrl: function(coord, zoom) {
+            var sb = 'tiles/z'+zoom+'/';
+            var x = coord.x;
+            var y = coord.y;
+            while(true){
+              var cellX = x&0xF;
+              var cellY = y&0xF;
+              x>>=4;
+              y>>=4;
+              if(x==0 && y==0){
+                sb+="tile"+coord.x+"x"+coord.y+".png";
+                break;
+              } else {
+                sb+=cellX.toString(16)+"x"+cellY.toString(16)+'/';
+              }         
+            }
+            return sb;
+          },
+          tileSize: new google.maps.Size(256, 256)
+        });
+
+        map.overlayMapTypes.push(imageMapType);
+      }
+    </script>
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAfOhJIQseVyMNkha2eM0nloTD2o8h6PLM&callback=initMap">
+    </script>
+  </body>
+</html>

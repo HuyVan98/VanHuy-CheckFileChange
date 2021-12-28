@@ -1,0 +1,16 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M4 12C4 11.4477 4.44772 11 5 11H7C7.55228 11 8 11.4477 8 12V13C8 13.5523 7.55228 14 7 14H5C4.44772 14 4 13.5523 4 13V12Z" fill="#EE0033"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10 12C10 11.4477 10.4477 11 11 11H13C13.5523 11 14 11.4477 14 12V13C14 13.5523 13.5523 14 13 14H11C10.4477 14 10 13.5523 10 13V12Z" fill="#EE0033"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M4 17C4 16.4477 4.44772 16 5 16H7C7.55228 16 8 16.4477 8 17V18C8 18.5523 7.55228 19 7 19H5C4.44772 19 4 18.5523 4 18V17Z" fill="#EE0033"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10 17C10 16.4477 10.4477 16 11 16H13C13.5523 16 14 16.4477 14 17V18C14 18.5523 13.5523 19 13 19H11C10.4477 19 10 18.5523 10 18V17Z" fill="#EE0033"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M16 12C16 11.4477 16.4477 11 17 11H19C19.5523 11 20 11.4477 20 12V13C20 13.5523 19.5523 14 19 14H17C16.4477 14 16 13.5523 16 13V12Z" fill="#EE0033"/>
+<path d="M7 12H5V13H7V12Z" fill="#EE0033"/>
+<path d="M13 12H11V13H13V12Z" fill="#EE0033"/>
+<path d="M7 17H5V18H7V17Z" fill="#EE0033"/>
+<path d="M13 17H11V18H13V17Z" fill="#EE0033"/>
+<path d="M19 12H17V13H19V12Z" fill="#EE0033"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 4C0 3.44772 0.447715 3 1 3H23C23.5523 3 24 3.44772 24 4V22C24 22.5523 23.5523 23 23 23H1C0.447715 23 0 22.5523 0 22V4ZM2 5V21H22V5H2Z" fill="#EE0033"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M17 0C17.5523 0 18 0.447715 18 1V4C18 4.55228 17.5523 5 17 5C16.4477 5 16 4.55228 16 4V1C16 0.447715 16.4477 0 17 0Z" fill="#EE0033"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M7 0C7.55228 0 8 0.447715 8 1V4C8 4.55228 7.55228 5 7 5C6.44772 5 6 4.55228 6 4V1C6 0.447715 6.44772 0 7 0Z" fill="#EE0033"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 8C0 7.44772 0.447715 7 1 7H23C23.5523 7 24 7.44772 24 8C24 8.55228 23.5523 9 23 9H1C0.447715 9 0 8.55228 0 8Z" fill="#EE0033"/>
+</svg>
